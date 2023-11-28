@@ -176,12 +176,14 @@ To use pre-trained **HoVer-UNet** download weights [here](https://zenodo.org/rec
 ## Citation
 This work is currently submitted to International Symposium on Biomedical Imaging (ISBI) 2024.
 
+```
 @article{tommasino2023hover,
-  title={" HoVer-UNet": Accelerating HoVerNet with UNet-based multi-class nuclei segmentation via knowledge distillation},
+  title={"HoVer-UNet": Accelerating HoVerNet with UNet-based multi-class nuclei segmentation via knowledge distillation},
   author={Tommasino, Cristian and Russo, Cristiano and Rinaldi, Antonio Maria and Ciompi, Francesco},
   journal={arXiv preprint arXiv:2311.12553},
   year={2023}
 }
+```
 
 ## References
 <a id="1" href="https://doi.org/10.1016/j.media.2019.101563">[1]</a> 
