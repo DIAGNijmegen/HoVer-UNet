@@ -176,6 +176,13 @@ To use pre-trained **HoVer-UNet** download weights [here](https://zenodo.org/rec
 ## Citation
 This work is currently submitted to International Symposium on Biomedical Imaging (ISBI) 2024.
 
+@article{tommasino2023hover,
+  title={" HoVer-UNet": Accelerating HoVerNet with UNet-based multi-class nuclei segmentation via knowledge distillation},
+  author={Tommasino, Cristian and Russo, Cristiano and Rinaldi, Antonio Maria and Ciompi, Francesco},
+  journal={arXiv preprint arXiv:2311.12553},
+  year={2023}
+}
+
 ## References
 <a id="1" href="https://doi.org/10.1016/j.media.2019.101563">[1]</a> 
 Gamper, J., Alemi Koohbanani, N., Benet, K., Khuram, A., & Rajpoot, N. (2019). PanNuke: an open pan-cancer histology dataset for nuclei instance segmentation and classification. In Digital Pathology: 15th European Congress, ECDP 2019, Warwick, UK, April 10–13, 2019, Proceedings 15 (pp. 11-19). Springer International Publishing.
